@@ -7,11 +7,11 @@ Point Processing Techniques
 2. Histogram Equalisation
 
 Filtering 
-3. Linear Spatial Filtering
-4. Median Filtering
+1. Linear Spatial Filtering
+2. Median Filtering
 
-5. Bandpass Filtering (Suppressing Noise Interference Patterns)
+Bandpass Filtering (Suppressing Noise Interference Patterns)
  
-6. Undoing Perspective Distortion of Planar Surface
+Undoing Perspective Distortion of Planar Surface
   
-Refer to Report for in-depth analysis
+- Refer to Report for in-depth analysis
