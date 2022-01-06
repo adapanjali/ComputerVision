@@ -1,4 +1,4 @@
-# ComputerVision
+# Computer Vision
 
 This project focusses on image enhancement techniques along with a MATLAB implementation of those techniques listed as follows:
 
